@@ -1,9 +1,18 @@
-import logo from './logo.svg';
-import './App.css';
+import Logo from "../Logo/Logo";
+import './Header.css'
 
-function App() {
-  return (
-    <div className="App">
+function Header() {
+    return (
+       <header>
+            <Logo className="componentLogo" />
+       </header>
+        
+    );
+}
+
+export default Header;
+
+/*<div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
@@ -18,8 +27,4 @@ function App() {
           Learn React
         </a>
       </header>
-    </div>
-  );
-}
-
-export default App;
+</div>*/

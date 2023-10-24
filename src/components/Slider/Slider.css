@@ -1,0 +1,10 @@
+.sectionTitle{
+    margin-left: 355px;
+}
+
+.tarjetas{
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+    gap: 50px;
+}
