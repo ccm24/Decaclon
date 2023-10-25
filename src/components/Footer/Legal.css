@@ -1,0 +1,20 @@
+.legal{
+    color: #AFAFAF;
+    font-size: 9px;
+    line-height: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 0px 190px;
+}
+
+.politica{
+    font-size: 12px;
+    margin:50px 0;
+}
+
+a{
+    color: #00699D;
+    text-decoration: none;
+}

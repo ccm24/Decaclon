@@ -1,0 +1,25 @@
+.preguntasMedio{
+    display: flex;
+    flex-direction: column;
+}
+
+.horario{
+    color: #AFAFAF;
+    font-size: 12px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    margin: 2px 0;
+    gap: 8px;
+}
+
+.texto{
+    display: flex;
+    flex-direction: column;
+    line-height: 16px;
+}
+
+.iniciarChat{
+    color: #00699D;
+    text-decoration:underline;
+}

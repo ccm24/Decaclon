@@ -1,4 +1,14 @@
 footer{
     background: #EFEFEF;
+    padding: 30px;
     margin-top: 53px;
 }
+.superior, .medio{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 35px 190px;
+    gap: 50px;
+}
+

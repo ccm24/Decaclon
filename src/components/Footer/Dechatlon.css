@@ -1,0 +1,9 @@
+.tiendas{
+    color: #AFAFAF;
+    font-size: 12px;
+    line-height: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
