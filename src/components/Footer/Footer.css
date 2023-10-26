@@ -1,5 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkalami&family=Oswald:wght@300&family=Roboto+Condensed&display=swap');
+
+
 footer{
     background: #EFEFEF;
+    font-family: 'Roboto Condensed';
     padding: 30px;
     margin-top: 53px;
 }

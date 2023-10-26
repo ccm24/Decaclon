@@ -1,6 +1,7 @@
 .footerTitle{
+    font-family: 'Roboto Condensed';
     font-size: 12px;
-    font-weight:bolder;
+    font-weight: bold;
     font-style:italic;
     color: #1A2A34;
     margin-bottom: 13px;

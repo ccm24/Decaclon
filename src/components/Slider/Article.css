@@ -2,5 +2,45 @@
     width: 260px;
     height: 255px;
     margin-top: 25px;
+    padding: 11px;
     box-shadow: 0px 5px 10px #E7EDF2;
+}
+
+.cajaPrecio{
+    display: flex;
+    justify-content: flex-end;  
+    position: relative;
+    z-index: 2;
+    margin-top: 14px;
+
+}
+.precio{
+    width: 54px;
+    height: 20px;
+}
+
+.caja{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.imgArticles{
+    width: 156px;
+    position: absolute;
+    z-index: 1;
+    margin-top: 90px;
+}
+
+.cajaTexto{
+    position: relative;
+    z-index: 3;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 135px;
+}
+
+.descripcion{
+    margin-left: 25px;
 }
